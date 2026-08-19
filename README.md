@@ -2,13 +2,13 @@
 
 A practitioner's companion for running, using, and fine-tuning local large language models for actuarial work. Everything here runs on your own hardware; nothing you type, paste, or train on leaves your machine.
 
-Companion repository to *The Actuary's Local LLM: A Practitioner's Setup for Confidential Work* (SOA AI Bulletin).
+Companion repository to *The Actuary's Local LLM: A Practitioner's Setup for Confidential Work* part 1 and part 2.
 
 ## Why local
 
 Some actuarial work should not leave organisational control regardless of any vendor's assurances: claim narratives containing personal information, experience-study commentary, draft reserving methodology, anything commercially sensitive or subject to data-residency obligations. A local model changes the shape of the question. The weights run on your machine, the prompt never crosses the network, and the trust boundary you have to defend is the one you already defend for every other confidential system. You also get cost predictability, offline access, and the learning value of seeing how these systems actually behave.
 
-The honest trade-off: a local 8B-class model is not a frontier model and will not match one on open-ended reasoning. For narrow, well-specified tasks, which are precisely the tasks worth automating, the gap closes sharply, and this repository is built around such tasks.
+A local 8B-class model is not a frontier model and will not match one on open-ended reasoning. For narrow, well-specified tasks, which are precisely the tasks worth automating, the gap closes sharply, and this repository is built around such tasks.
 
 ## Quickstart
 
