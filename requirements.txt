@@ -1,0 +1,2 @@
+# Examples only. Fine-tuning has its own file: finetune/requirements.txt
+openai>=1.40,<4        # verified against 3.3.0; the ceiling guards the next major

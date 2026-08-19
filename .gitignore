@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and secrets
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Example and evaluation output
+results/
+
+# Fine-tuning artefacts: adapters, merged weights, GGUF, checkpoints.
+# All regenerable from the finetune/ scripts. Weights never go in git.
+finetune/outputs/
+finetune/data/*.jsonl
+finetune/data/mlx/
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+checkpoint-*/
+finetuned_model.zip
+
+# Scratch that Unsloth, TRL and llama.cpp write into the working tree
+unsloth_compiled_cache/
+unsloth_training_checkpoints/
+.unsloth/
+llama.cpp/
+wandb/
+runs/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

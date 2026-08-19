@@ -1,0 +1,19 @@
+# NVIDIA GPU fine-tuning path (Linux/Windows, CUDA 12.x).
+# Apple Silicon users: skip this file and see the MLX section in README.md.
+#
+# Install torch FIRST, from the PyTorch CUDA index. PyPI's default torch
+# wheel is CPU-only on Windows, and Unsloth then aborts on import with
+# "Unsloth cannot find any torch accelerator? You need a GPU."
+#
+#     pip install torch --index-url https://download.pytorch.org/whl/cu128
+#     pip install -r finetune/requirements.txt
+#
+# cu128 covers current NVIDIA cards; pick the build matching your driver
+# from pytorch.org. Verify with:
+#     python -c "import torch; print(torch.cuda.is_available())"
+unsloth
+transformers
+trl
+datasets
+peft
+bitsandbytes

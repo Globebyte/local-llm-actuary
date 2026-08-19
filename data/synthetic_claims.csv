@@ -1,0 +1,201 @@
+claim_id,note,category
+SYN-0001,"23 Sep. Loose handrail at insd cafe gave way; member of public fell on stairs, head laceration, glasses broken. Handrail since repaired $150. Injury claim anticipated.",LIABILITY_INJURY
+SYN-0002,"03 Mar. Low-speed car park contact with TP vehicle. Cosmetic scuffs only, $600. TP driver mentioned headache at scene and has since submitted whiplash claim via solicitors.",MOTOR_BI
+SYN-0003,"12 Jun: customer Mrs Osei slipped on wet floor at insd showroom, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0004,"FNOL 19 Dec. Insd saloon rear-ended by TP at traffic lights, Harbour Rd. Driver reports neck stiffness, GP visit booked. Rear bumper and boot damage, est $4,000. TP insurer notified.",MOTOR_BI
+SYN-0005,"10 Jan: customer Mr Brennan slipped on wet floor at insd supermarket, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0006,"FNOL 11 Nov. Electrical fault in utility room caused localised fire. Fire service attended, property safe. Alternative accommodation arranged 2 wks. Loss adjuster instructed.",PROPERTY_FIRE
+SYN-0007,"FNOL 07 Dec. Insd estate vs bollard, front axle and radiator damage, repair est $6,100. Note added 05 Nov: passenger now reporting lower back pain since incident, physio referral. Update reserve.",MOTOR_BI
+SYN-0008,"05 Feb: multi-vehicle shunt on ring road. Insd driver Mrs Osei attended A&E with wrist pain, discharged same day. Vehicle recovered, NSD front end. Awaiting engineer report and TP details.",MOTOR_BI
+SYN-0009,"12 Aug: TP ran red light and struck insd nearside doors. Both drivers exchanged details, both confirmed uninjured at scene and on follow-up call. Doors and B-pillar, est $2,750. Pursuing recovery from TP insurer.",MOTOR_PD
+SYN-0010,"26 Feb: multi-vehicle shunt on ring road. Insd driver Ms Reyes attended A&E with wrist pain, discharged same day. Vehicle recovered, NSD front end. Awaiting engineer report and TP details.",MOTOR_BI
+SYN-0011,"Windscreen and bonnet damage from debris on motorway, 26 Aug. No other vehicle involved, no injury. Glass replaced $600, bonnet respray quoted.",MOTOR_PD
+SYN-0012,"17 Mar: multi-vehicle shunt on ring road. Insd driver Mr Nakamura attended A&E with wrist pain, discharged same day. Vehicle recovered, NSD front end. Awaiting engineer report and TP details.",MOTOR_BI
+SYN-0013,"Slow leak from loft pipework discovered during redecoration, 13 Jan. Joist damp readings high, trace and access cover confirmed. Drying regime 2-3 wks before reinstatement.",PROPERTY_WATER
+SYN-0014,"FNOL 07 May. Insd hatchback reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $1,800. Excess applies.",MOTOR_PD
+SYN-0015,"FNOL 24 Mar. Insd pickup rear-ended by TP at traffic lights, Cedar Ct. Driver reports neck stiffness, GP visit booked. Rear bumper and boot damage, est $3,000. TP insurer notified.",MOTOR_BI
+SYN-0016,"Garden outbuilding destroyed by fire 18 May, cause TBC, possible disposable BBQ. Fence panels and adjacent cladding heat damaged. No injuries. Est $4,850.",PROPERTY_FIRE
+SYN-0017,"15 Dec: customer Ms Tan slipped on wet floor at insd showroom, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0018,"Slow leak from kitchen pipework discovered during redecoration, 19 Nov. Joist damp readings high, trace and access cover confirmed. Drying regime 2-3 wks before reinstatement.",PROPERTY_WATER
+SYN-0019,"22 Jul. Small fire in hallway extinguished by sprinkler activation. Fire damage limited, but water from suppression affected stock and flooring below. Combined est $12,650. Treat as single fire loss.",PROPERTY_FIRE
+SYN-0020,"FNOL 24 Jun. Visitor tripped on raised paving at insd premises entrance (gym). Fractured wrist confirmed. Solicitors letter of claim received, indemnity being reviewed.",LIABILITY_INJURY
+SYN-0021,"28 May. Small fire in loft extinguished by sprinkler activation. Fire damage limited, but water from suppression affected stock and flooring below. Combined est $7,100. Treat as single fire loss.",PROPERTY_FIRE
+SYN-0022,"FNOL 07 Oct. Visitor tripped on raised paving at insd premises entrance (gym). Fractured wrist confirmed. Solicitors letter of claim received, indemnity being reviewed.",LIABILITY_INJURY
+SYN-0023,"Claim opened 09 Jun. Cyclist collision at junction of Foundry Way. Cyclist sustained leg injury, ambulance attended. Insd pickup minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0024,"26 Jul: customer Ms Kowalski slipped on wet floor at insd cafe, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0025,"FNOL 28 Jul. Visitor tripped on raised paving at insd premises entrance (showroom). Fractured wrist confirmed. Solicitors letter of claim received, indemnity being reviewed.",LIABILITY_INJURY
+SYN-0026,"12 Dec: escape of water from burst pipe in utility room. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $3,600. Policyholder in situ.",PROPERTY_WATER
+SYN-0027,"11 Dec. Low-speed car park contact with TP vehicle. Cosmetic scuffs only, $600. TP driver mentioned headache at scene and has since submitted whiplash claim via solicitors.",MOTOR_BI
+SYN-0028,"FNOL 20 Oct. Insd estate rear-ended by TP at traffic lights, Mill Lane. Driver reports neck stiffness, GP visit booked. Rear bumper and boot damage, est $1,300. TP insurer notified.",MOTOR_BI
+SYN-0029,"07 Jul: customer Mr Okafor slipped on wet floor at insd hotel lobby, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0030,"FNOL 07 Oct. Insd saloon reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $900. Excess applies.",MOTOR_PD
+SYN-0031,"Delivery driver struck by falling stock in insd showroom storeroom, 04 Dec. Shoulder injury, off work. RIDDOR reportable. Reserve for GD and specials.",LIABILITY_INJURY
+SYN-0032,"19 Mar: customer Mr Brennan slipped on wet floor at insd showroom, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0033,"15 Jan. Water ingress from flat above (their hallway overflow). Insd ceiling stained and light fitting affected. Recovery against upstairs policy to be considered, est $1,350.",PROPERTY_WATER
+SYN-0034,"19 May: pan fire in bathroom, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $9,750.",PROPERTY_FIRE
+SYN-0035,"FNOL 17 Feb. Insd estate vs bollard, front axle and radiator damage, repair est $3,950. Note added 14 Oct: passenger now reporting lower back pain since incident, physio referral. Update reserve.",MOTOR_BI
+SYN-0036,"FNOL 18 Aug. Insd hatchback vs bollard, front axle and radiator damage, repair est $3,200. Note added 10 Aug: passenger now reporting lower back pain since incident, physio referral. Update reserve.",MOTOR_BI
+SYN-0037,"Windscreen and bonnet damage from debris on motorway, 19 Nov. No other vehicle involved, no injury. Glass replaced $450, bonnet respray quoted.",MOTOR_PD
+SYN-0038,"18 Jan: escape of water from burst pipe in utility room. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $4,050. Policyholder in situ.",PROPERTY_WATER
+SYN-0039,"17 Feb. Insd pickup aquaplaned and left carriageway into hedge. Airbags deployed, vehicle likely total loss $10,100. Driver checked by paramedics at scene, no injuries reported, declined hospital.",MOTOR_PD
+SYN-0040,"24 Jan: escape of water from burst pipe in kitchen. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $3,350. Policyholder in situ.",PROPERTY_WATER
+SYN-0041,"FNOL 19 Nov. Washing machine hose failed while insd away, water tracked through en-suite into hallway. Contents damage inc laminate and skirting. Leak detection attended, mains isolated.",PROPERTY_WATER
+SYN-0042,"FNOL 06 Jun. Washing machine hose failed while insd away, water tracked through utility room into hallway. Contents damage inc laminate and skirting. Leak detection attended, mains isolated.",PROPERTY_WATER
+SYN-0043,"08 Apr: escape of water from burst pipe in en-suite. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $6,550. Policyholder in situ.",PROPERTY_WATER
+SYN-0044,"Claim opened 16 May. Cyclist collision at junction of Orchard Cl. Cyclist sustained leg injury, ambulance attended. Insd van minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0045,"27 Sep. Loose handrail at insd gym gave way; member of public fell on stairs, head laceration, glasses broken. Handrail since repaired $350. Injury claim anticipated.",LIABILITY_INJURY
+SYN-0046,"Slow leak from utility room pipework discovered during redecoration, 28 Dec. Joist damp readings high, trace and access cover confirmed. Drying regime 2-3 wks before reinstatement.",PROPERTY_WATER
+SYN-0047,"FNOL 17 Aug. Insd van reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $1,550. Excess applies.",MOTOR_PD
+SYN-0048,"23 Sep: TP ran red light and struck insd nearside doors. Both drivers exchanged details, both confirmed uninjured at scene and on follow-up call. Doors and B-pillar, est $4,850. Pursuing recovery from TP insurer.",MOTOR_PD
+SYN-0049,"FNOL 20 Mar. Insd saloon reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $950. Excess applies.",MOTOR_PD
+SYN-0050,"08 Jan. Insd estate aquaplaned and left carriageway into hedge. Airbags deployed, vehicle likely total loss $9,550. Driver checked by paramedics at scene, no injuries reported, declined hospital.",MOTOR_PD
+SYN-0051,"25 Mar. Loose handrail at insd warehouse unit gave way; member of public fell on stairs, head laceration, glasses broken. Handrail since repaired $250. Injury claim anticipated.",LIABILITY_INJURY
+SYN-0052,"FNOL 15 Nov. Flood water on Beacon St ingressed insd estate footwells, electrics fault. No occupants at time, no injury. Engineer to assess, est $7,050.",MOTOR_PD
+SYN-0053,"Garden outbuilding destroyed by fire 12 Jul, cause TBC, possible disposable BBQ. Fence panels and adjacent cladding heat damaged. No injuries. Est $13,900.",PROPERTY_FIRE
+SYN-0054,"19 Nov: customer Mr Brennan slipped on wet floor at insd showroom, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0055,"01 Feb: TP ran red light and struck insd nearside doors. Both drivers exchanged details, both confirmed uninjured at scene and on follow-up call. Doors and B-pillar, est $5,350. Pursuing recovery from TP insurer.",MOTOR_PD
+SYN-0056,"FNOL 13 Dec. Insd saloon reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $1,050. Excess applies.",MOTOR_PD
+SYN-0057,"Claim opened 23 Jul. Cyclist collision at junction of Cedar Ct. Cyclist sustained leg injury, ambulance attended. Insd estate minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0058,"09 May. Small fire in en-suite extinguished by sprinkler activation. Fire damage limited, but water from suppression affected stock and flooring below. Combined est $14,400. Treat as single fire loss.",PROPERTY_FIRE
+SYN-0059,"FNOL 20 Jun. Insd van rear-ended by TP at traffic lights, Elm Ave. Driver reports neck stiffness, GP visit booked. Rear bumper and boot damage, est $2,100. TP insurer notified.",MOTOR_BI
+SYN-0060,"24 Aug. Water ingress from flat above (their en-suite overflow). Insd ceiling stained and light fitting affected. Recovery against upstairs policy to be considered, est $900.",PROPERTY_WATER
+SYN-0061,"Claim opened 06 Jul. Cyclist collision at junction of Foundry Way. Cyclist sustained leg injury, ambulance attended. Insd hatchback minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0062,"17 Dec: pan fire in bathroom, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $7,100.",PROPERTY_FIRE
+SYN-0063,"15 Dec: escape of water from burst pipe in loft. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $5,600. Policyholder in situ.",PROPERTY_WATER
+SYN-0064,"01 Sep: escape of water from burst pipe in bathroom. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $4,450. Policyholder in situ.",PROPERTY_WATER
+SYN-0065,"06 Apr: customer Mrs Osei slipped on wet floor at insd showroom, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0066,"06 Dec: TP ran red light and struck insd nearside doors. Both drivers exchanged details, both confirmed uninjured at scene and on follow-up call. Doors and B-pillar, est $4,300. Pursuing recovery from TP insurer.",MOTOR_PD
+SYN-0067,"27 Nov: pan fire in kitchen, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $3,650.",PROPERTY_FIRE
+SYN-0068,"FNOL 14 Apr. Child caught fingers in door at insd warehouse unit; first aid given on site, parents attended A&E as precaution. Awaiting further contact from family.",LIABILITY_INJURY
+SYN-0069,"21 Jan: multi-vehicle shunt on ring road. Insd driver Mrs Petrova attended A&E with wrist pain, discharged same day. Vehicle recovered, NSD front end. Awaiting engineer report and TP details.",MOTOR_BI
+SYN-0070,"FNOL 13 Mar. Visitor tripped on raised paving at insd premises entrance (showroom). Fractured wrist confirmed. Solicitors letter of claim received, indemnity being reviewed.",LIABILITY_INJURY
+SYN-0071,"20 May: escape of water from burst pipe in bathroom. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $4,750. Policyholder in situ.",PROPERTY_WATER
+SYN-0072,"FNOL 23 Aug. Insd van vs bollard, front axle and radiator damage, repair est $3,550. Note added 14 Jul: passenger now reporting lower back pain since incident, physio referral. Update reserve.",MOTOR_BI
+SYN-0073,"19 Oct: multi-vehicle shunt on ring road. Insd driver Mrs Osei attended A&E with wrist pain, discharged same day. Vehicle recovered, NSD front end. Awaiting engineer report and TP details.",MOTOR_BI
+SYN-0074,"16 Jan. Low-speed car park contact with TP vehicle. Cosmetic scuffs only, $800. TP driver mentioned headache at scene and has since submitted whiplash claim via solicitors.",MOTOR_BI
+SYN-0075,"FNOL 25 Jan. Insd saloon rear-ended by TP at traffic lights, Orchard Cl. Driver reports neck stiffness, GP visit booked. Rear bumper and boot damage, est $3,850. TP insurer notified.",MOTOR_BI
+SYN-0076,"17 Aug: TP ran red light and struck insd nearside doors. Both drivers exchanged details, both confirmed uninjured at scene and on follow-up call. Doors and B-pillar, est $4,700. Pursuing recovery from TP insurer.",MOTOR_PD
+SYN-0077,"Slow leak from kitchen pipework discovered during redecoration, 04 Aug. Joist damp readings high, trace and access cover confirmed. Drying regime 2-3 wks before reinstatement.",PROPERTY_WATER
+SYN-0078,"Windscreen and bonnet damage from debris on motorway, 21 Oct. No other vehicle involved, no injury. Glass replaced $600, bonnet respray quoted.",MOTOR_PD
+SYN-0079,"24 Jun: escape of water from burst pipe in bathroom. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $7,650. Policyholder in situ.",PROPERTY_WATER
+SYN-0080,"21 Mar: escape of water from burst pipe in en-suite. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $2,800. Policyholder in situ.",PROPERTY_WATER
+SYN-0081,"Slow leak from hallway pipework discovered during redecoration, 05 Jul. Joist damp readings high, trace and access cover confirmed. Drying regime 2-3 wks before reinstatement.",PROPERTY_WATER
+SYN-0082,"18 Oct. Loose handrail at insd cafe gave way; member of public fell on stairs, head laceration, glasses broken. Handrail since repaired $150. Injury claim anticipated.",LIABILITY_INJURY
+SYN-0083,"17 May. Low-speed car park contact with TP vehicle. Cosmetic scuffs only, $600. TP driver mentioned headache at scene and has since submitted whiplash claim via solicitors.",MOTOR_BI
+SYN-0084,"FNOL 13 Aug. Insd hatchback reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $1,650. Excess applies.",MOTOR_PD
+SYN-0085,"FNOL 03 Jan. Insd SUV reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $1,850. Excess applies.",MOTOR_PD
+SYN-0086,"06 Oct: pan fire in bathroom, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $3,050.",PROPERTY_FIRE
+SYN-0087,"11 Oct: customer Mr Brennan slipped on wet floor at insd gym, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0088,"FNOL 02 Mar. Visitor tripped on raised paving at insd premises entrance (supermarket). Fractured wrist confirmed. Solicitors letter of claim received, indemnity being reviewed.",LIABILITY_INJURY
+SYN-0089,"Claim opened 18 Sep. Cyclist collision at junction of Orchard Cl. Cyclist sustained leg injury, ambulance attended. Insd hatchback minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0090,"FNOL 27 Jun. Washing machine hose failed while insd away, water tracked through kitchen into hallway. Contents damage inc laminate and skirting. Leak detection attended, mains isolated.",PROPERTY_WATER
+SYN-0091,"FNOL 18 Apr. Insd hatchback rear-ended by TP at traffic lights, Mill Lane. Driver reports neck stiffness, GP visit booked. Rear bumper and boot damage, est $1,300. TP insurer notified.",MOTOR_BI
+SYN-0092,"01 Mar. Loose handrail at insd warehouse unit gave way; member of public fell on stairs, head laceration, glasses broken. Handrail since repaired $150. Injury claim anticipated.",LIABILITY_INJURY
+SYN-0093,"Claim opened 06 Apr. Cyclist collision at junction of Orchard Cl. Cyclist sustained leg injury, ambulance attended. Insd hatchback minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0094,"Garden outbuilding destroyed by fire 28 Dec, cause TBC, possible disposable BBQ. Fence panels and adjacent cladding heat damaged. No injuries. Est $14,700.",PROPERTY_FIRE
+SYN-0095,"FNOL 02 Jul. Electrical fault in hallway caused localised fire. Fire service attended, property safe. Alternative accommodation arranged 2 wks. Loss adjuster instructed.",PROPERTY_FIRE
+SYN-0096,"FNOL 26 Feb. Smoke logging from neighbouring property fire entered insd home via open windows. No flame damage to insd risk; soot deposits on soft furnishings, specialist clean required.",PROPERTY_FIRE
+SYN-0097,"18 Nov: customer Ms Reyes slipped on wet floor at insd hotel lobby, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0098,"Windscreen and bonnet damage from debris on motorway, 05 Apr. No other vehicle involved, no injury. Glass replaced $600, bonnet respray quoted.",MOTOR_PD
+SYN-0099,"20 Jul: pan fire in en-suite, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $3,250.",PROPERTY_FIRE
+SYN-0100,"08 Mar: escape of water from burst pipe in loft. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $6,750. Policyholder in situ.",PROPERTY_WATER
+SYN-0101,"Slow leak from bathroom pipework discovered during redecoration, 11 Mar. Joist damp readings high, trace and access cover confirmed. Drying regime 2-3 wks before reinstatement.",PROPERTY_WATER
+SYN-0102,"FNOL 24 Nov. Washing machine hose failed while insd away, water tracked through hallway into hallway. Contents damage inc laminate and skirting. Leak detection attended, mains isolated.",PROPERTY_WATER
+SYN-0103,"FNOL 13 Dec. Electrical fault in kitchen caused localised fire. Fire service attended, property safe. Alternative accommodation arranged 2 wks. Loss adjuster instructed.",PROPERTY_FIRE
+SYN-0104,"FNOL 07 Oct. Pipe burst adjacent to fireplace chimney breast in bathroom; plaster and hearth surround water damaged. No fire involved. Est $4,200.",PROPERTY_WATER
+SYN-0105,"01 May. Low-speed car park contact with TP vehicle. Cosmetic scuffs only, $850. TP driver mentioned headache at scene and has since submitted whiplash claim via solicitors.",MOTOR_BI
+SYN-0106,"05 Jul: escape of water from burst pipe in bathroom. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $4,400. Policyholder in situ.",PROPERTY_WATER
+SYN-0107,"FNOL 16 Aug. Washing machine hose failed while insd away, water tracked through hallway into hallway. Contents damage inc laminate and skirting. Leak detection attended, mains isolated.",PROPERTY_WATER
+SYN-0108,"Garden outbuilding destroyed by fire 06 Oct, cause TBC, possible disposable BBQ. Fence panels and adjacent cladding heat damaged. No injuries. Est $14,550.",PROPERTY_FIRE
+SYN-0109,"08 May: multi-vehicle shunt on ring road. Insd driver Mrs Osei attended A&E with wrist pain, discharged same day. Vehicle recovered, NSD front end. Awaiting engineer report and TP details.",MOTOR_BI
+SYN-0110,"Delivery driver struck by falling stock in insd showroom storeroom, 06 Mar. Shoulder injury, off work. RIDDOR reportable. Reserve for GD and specials.",LIABILITY_INJURY
+SYN-0111,"FNOL 18 Oct. Visitor tripped on raised paving at insd premises entrance (supermarket). Fractured wrist confirmed. Solicitors letter of claim received, indemnity being reviewed.",LIABILITY_INJURY
+SYN-0112,"FNOL 22 Oct. Child caught fingers in door at insd cafe; first aid given on site, parents attended A&E as precaution. Awaiting further contact from family.",LIABILITY_INJURY
+SYN-0113,"23 Oct: TP ran red light and struck insd nearside doors. Both drivers exchanged details, both confirmed uninjured at scene and on follow-up call. Doors and B-pillar, est $5,000. Pursuing recovery from TP insurer.",MOTOR_PD
+SYN-0114,"Windscreen and bonnet damage from debris on motorway, 12 Jul. No other vehicle involved, no injury. Glass replaced $700, bonnet respray quoted.",MOTOR_PD
+SYN-0115,"10 Sep. Loose handrail at insd supermarket gave way; member of public fell on stairs, head laceration, glasses broken. Handrail since repaired $350. Injury claim anticipated.",LIABILITY_INJURY
+SYN-0116,"FNOL 09 Jun. Washing machine hose failed while insd away, water tracked through hallway into hallway. Contents damage inc laminate and skirting. Leak detection attended, mains isolated.",PROPERTY_WATER
+SYN-0117,"FNOL 24 Mar. Washing machine hose failed while insd away, water tracked through en-suite into hallway. Contents damage inc laminate and skirting. Leak detection attended, mains isolated.",PROPERTY_WATER
+SYN-0118,"FNOL 20 Jul. Electrical fault in bathroom caused localised fire. Fire service attended, property safe. Alternative accommodation arranged 2 wks. Loss adjuster instructed.",PROPERTY_FIRE
+SYN-0119,"15 Oct. Water ingress from flat above (their en-suite overflow). Insd ceiling stained and light fitting affected. Recovery against upstairs policy to be considered, est $2,550.",PROPERTY_WATER
+SYN-0120,"15 Apr. Low-speed car park contact with TP vehicle. Cosmetic scuffs only, $350. TP driver mentioned headache at scene and has since submitted whiplash claim via solicitors.",MOTOR_BI
+SYN-0121,"FNOL 25 Aug. Insd hatchback rear-ended by TP at traffic lights, Cedar Ct. Driver reports neck stiffness, GP visit booked. Rear bumper and boot damage, est $3,350. TP insurer notified.",MOTOR_BI
+SYN-0122,"14 Jul. Low-speed car park contact with TP vehicle. Cosmetic scuffs only, $700. TP driver mentioned headache at scene and has since submitted whiplash claim via solicitors.",MOTOR_BI
+SYN-0123,"Delivery driver struck by falling stock in insd supermarket storeroom, 05 Jan. Shoulder injury, off work. RIDDOR reportable. Reserve for GD and specials.",LIABILITY_INJURY
+SYN-0124,"Garden outbuilding destroyed by fire 14 May, cause TBC, possible disposable BBQ. Fence panels and adjacent cladding heat damaged. No injuries. Est $10,500.",PROPERTY_FIRE
+SYN-0125,"Claim opened 27 Apr. Cyclist collision at junction of Station Pde. Cyclist sustained leg injury, ambulance attended. Insd pickup minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0126,"14 Sep: pan fire in hallway, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $4,300.",PROPERTY_FIRE
+SYN-0127,"28 Dec. Small fire in loft extinguished by sprinkler activation. Fire damage limited, but water from suppression affected stock and flooring below. Combined est $9,050. Treat as single fire loss.",PROPERTY_FIRE
+SYN-0128,"07 Aug: TP ran red light and struck insd nearside doors. Both drivers exchanged details, both confirmed uninjured at scene and on follow-up call. Doors and B-pillar, est $3,700. Pursuing recovery from TP insurer.",MOTOR_PD
+SYN-0129,"03 Aug: pan fire in utility room, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $5,100.",PROPERTY_FIRE
+SYN-0130,"21 Mar. Small fire in en-suite extinguished by sprinkler activation. Fire damage limited, but water from suppression affected stock and flooring below. Combined est $7,200. Treat as single fire loss.",PROPERTY_FIRE
+SYN-0131,"26 Jul. Small fire in kitchen extinguished by sprinkler activation. Fire damage limited, but water from suppression affected stock and flooring below. Combined est $12,800. Treat as single fire loss.",PROPERTY_FIRE
+SYN-0132,"21 Dec: customer Ms Kowalski slipped on wet floor at insd cafe, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0133,"09 Aug: customer Mr Nakamura slipped on wet floor at insd cafe, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0134,"07 Nov. Water ingress from flat above (their loft overflow). Insd ceiling stained and light fitting affected. Recovery against upstairs policy to be considered, est $1,200.",PROPERTY_WATER
+SYN-0135,"24 Jun: pan fire in hallway, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $4,650.",PROPERTY_FIRE
+SYN-0136,"Claim opened 11 Mar. Cyclist collision at junction of Elm Ave. Cyclist sustained leg injury, ambulance attended. Insd pickup minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0137,"FNOL 14 Jan. Visitor tripped on raised paving at insd premises entrance (hotel lobby). Fractured wrist confirmed. Solicitors letter of claim received, indemnity being reviewed.",LIABILITY_INJURY
+SYN-0138,"Delivery driver struck by falling stock in insd warehouse unit storeroom, 07 Sep. Shoulder injury, off work. RIDDOR reportable. Reserve for GD and specials.",LIABILITY_INJURY
+SYN-0139,"FNOL 05 Feb. Electrical fault in kitchen caused localised fire. Fire service attended, property safe. Alternative accommodation arranged 2 wks. Loss adjuster instructed.",PROPERTY_FIRE
+SYN-0140,"09 Oct. Insd estate aquaplaned and left carriageway into hedge. Airbags deployed, vehicle likely total loss $11,200. Driver checked by paramedics at scene, no injuries reported, declined hospital.",MOTOR_PD
+SYN-0141,"FNOL 27 Nov. Electrical fault in en-suite caused localised fire. Fire service attended, property safe. Alternative accommodation arranged 2 wks. Loss adjuster instructed.",PROPERTY_FIRE
+SYN-0142,"FNOL 05 Nov. Electrical fault in bathroom caused localised fire. Fire service attended, property safe. Alternative accommodation arranged 2 wks. Loss adjuster instructed.",PROPERTY_FIRE
+SYN-0143,"20 Feb: customer Ms Kowalski slipped on wet floor at insd gym, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0144,"13 Oct: pan fire in en-suite, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $5,700.",PROPERTY_FIRE
+SYN-0145,"FNOL 27 Dec. Insd estate reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $1,750. Excess applies.",MOTOR_PD
+SYN-0146,"Garden outbuilding destroyed by fire 20 Jun, cause TBC, possible disposable BBQ. Fence panels and adjacent cladding heat damaged. No injuries. Est $5,750.",PROPERTY_FIRE
+SYN-0147,"04 Jun. Loose handrail at insd gym gave way; member of public fell on stairs, head laceration, glasses broken. Handrail since repaired $150. Injury claim anticipated.",LIABILITY_INJURY
+SYN-0148,"Windscreen and bonnet damage from debris on motorway, 27 Oct. No other vehicle involved, no injury. Glass replaced $700, bonnet respray quoted.",MOTOR_PD
+SYN-0149,"18 Oct: escape of water from burst pipe in bathroom. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $5,600. Policyholder in situ.",PROPERTY_WATER
+SYN-0150,"FNOL 27 Aug. Insd hatchback reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $950. Excess applies.",MOTOR_PD
+SYN-0151,"07 Aug: pan fire in loft, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $5,250.",PROPERTY_FIRE
+SYN-0152,"FNOL 12 Jul. Insd hatchback vs bollard, front axle and radiator damage, repair est $5,600. Note added 03 Mar: passenger now reporting lower back pain since incident, physio referral. Update reserve.",MOTOR_BI
+SYN-0153,"FNOL 05 Apr. Flood water on Station Pde ingressed insd van footwells, electrics fault. No occupants at time, no injury. Engineer to assess, est $3,050.",MOTOR_PD
+SYN-0154,"FNOL 16 Jun. Insd van reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $1,800. Excess applies.",MOTOR_PD
+SYN-0155,"10 Jun: customer Mrs Osei slipped on wet floor at insd showroom, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0156,"08 Nov: escape of water from burst pipe in loft. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $8,250. Policyholder in situ.",PROPERTY_WATER
+SYN-0157,"17 Sep. Small fire in loft extinguished by sprinkler activation. Fire damage limited, but water from suppression affected stock and flooring below. Combined est $14,150. Treat as single fire loss.",PROPERTY_FIRE
+SYN-0158,"FNOL 14 Jun. Flood water on Cedar Ct ingressed insd van footwells, electrics fault. No occupants at time, no injury. Engineer to assess, est $7,400.",MOTOR_PD
+SYN-0159,"FNOL 04 Feb. Electrical fault in en-suite caused localised fire. Fire service attended, property safe. Alternative accommodation arranged 2 wks. Loss adjuster instructed.",PROPERTY_FIRE
+SYN-0160,"FNOL 19 Sep. Visitor tripped on raised paving at insd premises entrance (cafe). Fractured wrist confirmed. Solicitors letter of claim received, indemnity being reviewed.",LIABILITY_INJURY
+SYN-0161,"FNOL 15 Jan. Washing machine hose failed while insd away, water tracked through utility room into hallway. Contents damage inc laminate and skirting. Leak detection attended, mains isolated.",PROPERTY_WATER
+SYN-0162,"Garden outbuilding destroyed by fire 05 Mar, cause TBC, possible disposable BBQ. Fence panels and adjacent cladding heat damaged. No injuries. Est $4,450.",PROPERTY_FIRE
+SYN-0163,"18 Nov: pan fire in hallway, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $5,350.",PROPERTY_FIRE
+SYN-0164,"14 Aug: pan fire in hallway, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $10,300.",PROPERTY_FIRE
+SYN-0165,"24 Nov: escape of water from burst pipe in hallway. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $5,350. Policyholder in situ.",PROPERTY_WATER
+SYN-0166,"18 Sep: escape of water from burst pipe in kitchen. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $7,650. Policyholder in situ.",PROPERTY_WATER
+SYN-0167,"FNOL 08 Jul. Flood water on Foundry Way ingressed insd hatchback footwells, electrics fault. No occupants at time, no injury. Engineer to assess, est $4,600.",MOTOR_PD
+SYN-0168,"FNOL 15 May. Insd estate reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $600. Excess applies.",MOTOR_PD
+SYN-0169,"Garden outbuilding destroyed by fire 01 Jan, cause TBC, possible disposable BBQ. Fence panels and adjacent cladding heat damaged. No injuries. Est $8,700.",PROPERTY_FIRE
+SYN-0170,"02 Jul: customer Mr Nakamura slipped on wet floor at insd hotel lobby, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0171,"11 Sep. Water ingress from flat above (their loft overflow). Insd ceiling stained and light fitting affected. Recovery against upstairs policy to be considered, est $1,800.",PROPERTY_WATER
+SYN-0172,"FNOL 07 Aug. Electrical fault in kitchen caused localised fire. Fire service attended, property safe. Alternative accommodation arranged 2 wks. Loss adjuster instructed.",PROPERTY_FIRE
+SYN-0173,"FNOL 07 Nov. Flood water on Harbour Rd ingressed insd saloon footwells, electrics fault. No occupants at time, no injury. Engineer to assess, est $3,250.",MOTOR_PD
+SYN-0174,"FNOL 13 Oct. Insd hatchback vs bollard, front axle and radiator damage, repair est $5,950. Note added 12 May: passenger now reporting lower back pain since incident, physio referral. Update reserve.",MOTOR_BI
+SYN-0175,"FNOL 05 Jul. Insd estate reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $1,750. Excess applies.",MOTOR_PD
+SYN-0176,"24 Jun. Insd SUV aquaplaned and left carriageway into hedge. Airbags deployed, vehicle likely total loss $10,900. Driver checked by paramedics at scene, no injuries reported, declined hospital.",MOTOR_PD
+SYN-0177,"Claim opened 18 Mar. Cyclist collision at junction of Foundry Way. Cyclist sustained leg injury, ambulance attended. Insd estate minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0178,"Claim opened 06 Mar. Cyclist collision at junction of Elm Ave. Cyclist sustained leg injury, ambulance attended. Insd saloon minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0179,"FNOL 14 May. Insd hatchback reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $1,350. Excess applies.",MOTOR_PD
+SYN-0180,"22 Aug. Water ingress from flat above (their hallway overflow). Insd ceiling stained and light fitting affected. Recovery against upstairs policy to be considered, est $2,250.",PROPERTY_WATER
+SYN-0181,"FNOL 06 Sep. Flood water on Mill Lane ingressed insd pickup footwells, electrics fault. No occupants at time, no injury. Engineer to assess, est $7,000.",MOTOR_PD
+SYN-0182,"21 Mar: pan fire in en-suite, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $6,500.",PROPERTY_FIRE
+SYN-0183,"23 May. Loose handrail at insd cafe gave way; member of public fell on stairs, head laceration, glasses broken. Handrail since repaired $350. Injury claim anticipated.",LIABILITY_INJURY
+SYN-0184,"09 Jan: TP ran red light and struck insd nearside doors. Both drivers exchanged details, both confirmed uninjured at scene and on follow-up call. Doors and B-pillar, est $4,000. Pursuing recovery from TP insurer.",MOTOR_PD
+SYN-0185,"Claim opened 14 Mar. Cyclist collision at junction of Orchard Cl. Cyclist sustained leg injury, ambulance attended. Insd pickup minor wing damage. Liability under investigation, injury reserve to be set.",MOTOR_BI
+SYN-0186,"21 Dec. Insd van aquaplaned and left carriageway into hedge. Airbags deployed, vehicle likely total loss $11,000. Driver checked by paramedics at scene, no injuries reported, declined hospital.",MOTOR_PD
+SYN-0187,"FNOL 18 Mar. Insd hatchback reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $2,050. Excess applies.",MOTOR_PD
+SYN-0188,"FNOL 13 Jan. Pipe burst adjacent to fireplace chimney breast in en-suite; plaster and hearth surround water damaged. No fire involved. Est $2,300.",PROPERTY_WATER
+SYN-0189,"08 Oct: escape of water from burst pipe in hallway. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $5,300. Policyholder in situ.",PROPERTY_WATER
+SYN-0190,"22 Jan: customer Mrs Osei slipped on wet floor at insd gym, no wet floor sign per CCTV. Ankle injury, taken to hospital. Incident book completed, EL/PL claim expected.",LIABILITY_INJURY
+SYN-0191,"04 Oct. Loose handrail at insd cafe gave way; member of public fell on stairs, head laceration, glasses broken. Handrail since repaired $150. Injury claim anticipated.",LIABILITY_INJURY
+SYN-0192,"FNOL 18 Jul. Visitor tripped on raised paving at insd premises entrance (gym). Fractured wrist confirmed. Solicitors letter of claim received, indemnity being reviewed.",LIABILITY_INJURY
+SYN-0193,"FNOL 18 Jul. Pipe burst adjacent to fireplace chimney breast in kitchen; plaster and hearth surround water damaged. No fire involved. Est $3,800.",PROPERTY_WATER
+SYN-0194,"Garden outbuilding destroyed by fire 16 Oct, cause TBC, possible disposable BBQ. Fence panels and adjacent cladding heat damaged. No injuries. Est $10,050.",PROPERTY_FIRE
+SYN-0195,"23 Mar: multi-vehicle shunt on ring road. Insd driver Mr Brennan attended A&E with wrist pain, discharged same day. Vehicle recovered, NSD front end. Awaiting engineer report and TP details.",MOTOR_BI
+SYN-0196,"04 Feb: escape of water from burst pipe in en-suite. Ceiling below collapsed, flooring lifted. Dehumidifiers on site, strip-out quote $3,050. Policyholder in situ.",PROPERTY_WATER
+SYN-0197,"03 Feb. Low-speed car park contact with TP vehicle. Cosmetic scuffs only, $650. TP driver mentioned headache at scene and has since submitted whiplash claim via solicitors.",MOTOR_BI
+SYN-0198,"06 Nov: pan fire in en-suite, extinguished by insd before brigade arrival. Smoke damage throughout ground floor, cabinetry scorched. Cleaning and redecoration est $10,750.",PROPERTY_FIRE
+SYN-0199,"FNOL 08 Aug. Insd SUV reversed into gatepost at home address. Rear panel dented, no injuries, no TP. Repair est $1,450. Excess applies.",MOTOR_PD
+SYN-0200,"FNOL 08 Jul. Insd van rear-ended by TP at traffic lights, Elm Ave. Driver reports neck stiffness, GP visit booked. Rear bumper and boot damage, est $3,600. TP insurer notified.",MOTOR_BI

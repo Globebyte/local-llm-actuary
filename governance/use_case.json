@@ -1,0 +1,77 @@
+{
+  "_note": "GOVERN and MAP artefacts for one LLM use case, in a form the code reads at run time. Editing this file changes what the wrapper will allow. Keep it in version control; changes should carry the same approval as any other governance record.",
+
+  "use_case_id": "AI-2026-014",
+  "declaration_version": "1.0.0",
+  "title": "Methodology question answering for internal reserving review",
+
+  "govern": {
+    "classification": "Generative AI, internal use only, no consumer-facing deployment",
+    "risk_tier": "low-medium",
+    "owner": "Head of Reserving",
+    "approved_by": "AI Governance Committee",
+    "approved_date": "2026-07-01",
+    "review_due": "2027-01-01",
+    "policy_reference": "LLM Usage Policy for the Actuarial Function v1.0, sections 3.2 and 5.1",
+    "personal_data_permitted": false,
+    "data_classification_ceiling": "confidential",
+    "approved_models": [
+      {
+        "name": "qwen3:8b",
+        "digest": "500a1f067a9f782620b40bee6f7b0c89e17ae61f686b92c24933e4ca4b2b8b41",
+        "serving": "Ollama on localhost, weights never leave the machine"
+      }
+    ],
+    "decommission_triggers": [
+      "any unresolved citation in output that reaches a work product",
+      "citation resolution rate below 1.00 on the evaluation suite",
+      "model digest change that has not been re-approved"
+    ]
+  },
+
+  "map": {
+    "intended_purpose": "To help an actuary locate and quote the parts of an internal valuation methodology document that bear on a reserving question, by answering only from supplied sections and citing each of them, so that the actuary can verify the answer against the source. The system does not produce final actuarial work product; it produces a draft reading of an internal document.",
+    "out_of_scope": [
+      "any output communicated outside the team without actuarial sign-off",
+      "substantive legal or regulatory interpretation",
+      "numerical reserving calculations or assumption setting",
+      "documents containing policyholder or other personal data",
+      "questions the supplied document does not cover"
+    ],
+    "stakeholders": {
+      "users": "reserving analysts",
+      "reviewers": "the responsible actuary for the valuation",
+      "oversight": "AI Governance Committee",
+      "operators": "IT, for the local runtime"
+    },
+    "confabulation_impact": "The worst plausible failure is a fluent answer citing a section that does not support it, accepted by a reviewer under time pressure and carried into a valuation report. The controls below make that failure cheap to detect: the answer must cite section identifiers, every identifier is resolved against the corpus in code, and no output is usable until a named reviewer records a decision."
+  },
+
+  "measure": {
+    "required_controls": [
+      "structured_output",
+      "citation_requirement",
+      "citation_resolution_check",
+      "model_digest_pinning",
+      "hash_chained_audit_log",
+      "human_review_gate"
+    ],
+    "acceptance_thresholds": {
+      "schema_validity_rate": 1.0,
+      "citation_resolution_rate": 1.0
+    },
+    "not_covered_by_this_use_case": [
+      "retrieval quality, since every section is supplied rather than retrieved (see examples/03_methodology_qa.py)",
+      "an evaluation suite against ground truth, which belongs with the task it measures (see examples/02_claim_classification.py)",
+      "prompt injection testing, which this example does not attempt"
+    ]
+  },
+
+  "manage": {
+    "audit_log": "results/prompt_log.jsonl",
+    "retention_years": 7,
+    "review_required_before_use": true,
+    "provider_change_management": "A change to the model digest is treated as a new model. The wrapper refuses to run until the new digest is added to approved_models above, which is a deliberate human act standing in for committee re-approval.",
+    "incident_reporting": "Any accepted output later found to be unsupported by its citations is an incident: record it against the run_id, notify the use case owner, and re-run the evaluation suite before further use."
+  }
+}
