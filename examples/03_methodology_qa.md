@@ -108,3 +108,7 @@ Keep the human gate. Every control here makes output *checkable*. None makes it 
 - Ask a question using vocabulary the document does not use, then check the retrieved sections. This is how synonym-driven retrieval misses look from the outside.
 - Run `--dry-run` to see the chunking alone. If a section is much larger than its neighbours, it is a candidate for splitting and a likely source of dilution.
 - Delete the "if the context does not cover the question" sentence and re-ask about reinsurance retention. The model will invent a limit, in the register of the surrounding document. Keep the output; it is the most persuasive artefact you will have when explaining confabulation to a colleague who has not seen it.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

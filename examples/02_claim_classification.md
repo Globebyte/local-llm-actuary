@@ -113,3 +113,7 @@ Against the NIST AI RMF, this example is where MEASURE lives. An accuracy figure
 - Remove "Injury outranks damage" from the system prompt and re-run. Watch `MOTOR_BI → MOTOR_PD` appear in the confusions. This is the most direct demonstration available that tie-break rules are load-bearing.
 - Open the results CSV and read the notes the model got wrong. In most runs a few of them are cases where you will find yourself agreeing with the model and doubting the gold label, which is a finding about your rulebook, not the model.
 - Compare against a keyword baseline: assign `MOTOR_BI` if the note contains "injur", and so on. Knowing what a crude rule achieves is the only way to judge whether the model is earning its place.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

@@ -186,3 +186,7 @@ Against the NIST AI RMF, this example sits in MEASURE alongside example 02, and 
 - Add examples for the rule the model missed. Write a dozen more fire-versus-water origin cases, retrain, and see whether that confusion disappears without introducing another. This is targeted data work, and it is the highest-value loop in the whole example.
 - Give the fine-tuned model the full rulebook prompt. If accuracy does not improve, the rules really are in the weights. If it does, they are not, and you have learned something about how much training actually happened.
 - Add `qwen3:4b` prompted as a third column. The comparison you want is not only 4B-tuned against 8B-prompted, but 4B-tuned against 4B-prompted, which isolates what the training contributed from what the size cost.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

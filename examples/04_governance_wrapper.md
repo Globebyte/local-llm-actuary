@@ -180,3 +180,7 @@ That is the control behaving exactly as designed, and the refusal message says s
 - Make each control fire: set `LLM_MODEL` to something unapproved; edit the digest in the declaration; open `results/prompt_log.jsonl`, change one character inside a record, and run `--verify`; delete a whole line and verify again. Watching the difference between "contents do not match its own chain hash" and "does not follow the previous record" makes the mechanism concrete.
 - Ask something the document does not cover and read the record. `not_covered` is `true`, `citations` is empty, and validation passes: a refusal is a valid output, not a failure.
 - Sign a run off, then try again. The refusal on the second attempt is the control that stops a rejected output being quietly re-approved.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

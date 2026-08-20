@@ -21,3 +21,7 @@ None of these make the output trustworthy on their own; they make it *checkable*
 ## Change log
 
 - v1: initial version, paired with `data/sample_methodology.md`.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

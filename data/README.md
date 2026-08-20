@@ -25,3 +25,7 @@ Roughly a fifth of the notes are deliberately hard: injury emerging after a dama
 ## sample_methodology.md
 
 A fabricated term assurance valuation methodology document (~1,300 words, ten sections) used as the corpus for the document Q&A example. It is written to be internally coherent and realistic in register, but every figure, threshold, and policy in it is invented. It is flagged as illustrative in the document itself.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

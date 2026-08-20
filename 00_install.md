@@ -109,3 +109,7 @@ export LLM_MODEL=<model name as shown in LM Studio>
 - Painfully slow: the model is bigger than your memory and is swapping. Drop to `qwen3:4b`, or close the things eating your RAM.
 - Different port or remote machine: set `LLM_BASE_URL` accordingly; the examples read it.
 - Corporate laptop, no admin rights: LM Studio's per-user install sometimes succeeds where system installers cannot; failing that, this is a conversation with IT that the governance folder is designed to help you win.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

@@ -85,3 +85,7 @@ The capability change is real and should not be glossed over. An 8B model is not
 - Raise `temperature` to 0.8 and run the same prompt five times. This is the fastest way to build an intuition for what temperature actually controls, and for why anything you intend to measure should run at 0.
 - Delete `/no_think` from the system prompt and print the raw response before `strip_think` touches it. Seeing the reasoning block is instructive, and so is seeing how much longer the call takes.
 - Ask something the model cannot know, such as a figure from your own reserving basis. It will produce a confident, well-formed, wrong answer. That is confabulation, the failure mode [example 03](03_methodology_qa.md) is built to control.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

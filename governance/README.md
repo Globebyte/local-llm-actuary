@@ -58,3 +58,7 @@ A one-page record per model (or fine-tuned adapter) in use: what it is, what it 
 For US actuarial work these artefacts line up with ASOP 56's expectations around understanding, testing, and documenting models you use or rely on. Against the NIST AI RMF, `use_case.json` carries GOVERN and MAP content, the validation fields and thresholds are MEASURE, and the audit log, the sign-off gate and the digest pinning are MANAGE. For ISO/IEC 42001 they slot in as operational-control evidence.
 
 Two gaps to be candid about, both of which need the task they measure rather than a wrapper: an evaluation suite against known-correct answers, which is what `examples/02_claim_classification.py` demonstrates in miniature, and prompt injection testing, which nothing here attempts.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

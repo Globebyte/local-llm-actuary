@@ -24,3 +24,7 @@ Respond with the category code only. No punctuation, no explanation. /no_think
 ## Change log
 
 - v1: initial version, paired with `data/synthetic_claims.csv` labelling rules.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

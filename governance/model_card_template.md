@@ -31,3 +31,7 @@ e.g. sensitivity to notes mixing injury and damage signals; behaviour on categor
 ## Monitoring and review
 
 Sampling rate for human review, drift indicators watched, retraining triggers, review cadence.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

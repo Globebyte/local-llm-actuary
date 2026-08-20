@@ -22,3 +22,7 @@ Tested on `qwen3:8b` via Ollama's OpenAI-compatible endpoint with `response_form
 ## Change log
 
 - v1: initial version, paired with `governance/use_case.json` v1.0.0 and `data/sample_methodology.md`.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)

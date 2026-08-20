@@ -48,3 +48,7 @@ The evaluation is the deliverable: same 40 unseen notes, prompted 8B versus fine
 - The test split is stratified, held out before training, and never trained on. Every accuracy claim comes from it.
 - Track your dataset version alongside the adapter: an adapter is only meaningful with the data and base model that produced it. The model card template in `governance/` has fields for all three.
 - 160 examples is deliberately small and it works for a five-class, well-specified task. Quality and label consistency beat volume; if accuracy disappoints, fix the labelling rules before adding data.
+
+---
+
+For help, assistance, or more information: [globebyte.com](https://globebyte.com/)
